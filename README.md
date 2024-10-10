@@ -20,7 +20,7 @@
   > airflow db init
 
 * Airflow needs a user to access the web interface. You can create a user like this:
-> airflow users create \
+  > airflow users create \
    --username admin \
    --password admin \
    --firstname Admin \
