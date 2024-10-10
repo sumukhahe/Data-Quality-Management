@@ -13,9 +13,11 @@
 
 * Create Virtual Environment and Activate it.
 
-* Install Airflow : > pip install apache-airflow
+* Install Airflow :
+* > pip install apache-airflow
 
-* After installation, set up the metadata database > airflow db init
+* After installation, set up the metadata database :
+  > airflow db init
 
 * Airflow needs a user to access the web interface. You can create a user like this:
 > airflow users create \
