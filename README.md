@@ -29,7 +29,7 @@
    --email admin@example.com
 
 * Start Airflow Scheduler and Web Server, Open two separate terminals:
-  > For Scheduler : airflow scheduler
+  > For Scheduler : airflow scheduler \
   > For Web Server : airflow webserver --port 8080
 
 
